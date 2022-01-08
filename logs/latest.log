@@ -1,33 +1,38 @@
-[18:47:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:47:33] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:47:33] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_311
-[18:47:33] [main/INFO] [FML]: Searching C:\server1488\.\mods for mods
-[18:47:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-1.7.0-221-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:47:33] [main/WARN] [FML]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
-[18:47:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in clientfixer-1.12.2-1.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:47:33] [main/WARN] [FML]: The coremod ClientFixer (com.gamerforea.clientfixer.loader.CoreMod) is not signed!
-[18:47:33] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:47:33] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:47:33] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
-[18:47:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:47:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:47:34] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:47:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:47:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:47:35] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:47:37] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[18:47:37] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[13:20:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:20:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[13:20:26] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_311
+[13:20:26] [main/INFO] [FML]: Searching C:\Users\Smokelight\Documents\GitHub\don-t-touch-me-there\.\mods for mods
+[13:20:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-1.7.0-221-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:20:26] [main/WARN] [FML]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
+[13:20:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in clientfixer-1.12.2-1.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:20:26] [main/WARN] [FML]: The coremod ClientFixer (com.gamerforea.clientfixer.loader.CoreMod) is not signed!
+[13:20:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:20:26] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:20:26] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[13:20:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.12.2-1.7.5.192.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:20:26] [main/WARN] [FML]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:20:26] [main/WARN] [FML]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[13:20:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:20:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:20:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:20:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:20:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:20:29] [main/INFO] [OpenComputers]: Successfully patched net/minecraft/entity/EntityLiving.recreateLeash.
+[13:20:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[13:20:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[13:20:30] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: Неверный дескриптор
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_311]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_311]
@@ -41,312 +46,406 @@ java.io.IOException: Неверный дескриптор
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_311]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_311]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[18:47:37] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:47:37] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:47:37] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:47:37] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
-[18:47:37] [Server thread/INFO] [FML]: Searching C:\server1488\.\mods for mods
-[18:47:38] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[18:47:38] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
-[18:47:39] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
-[18:47:39] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:47:39] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:registerBus:42]: ********* registerBus. OK
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
-[18:47:39] [Server thread/WARN] [FML]: Missing English translation for additionalstructures: assets/additionalstructures/lang/en_us.lang
-[18:47:39] [Server thread/INFO] [FML]: FML has found a non-mod file clientfixer-1.12.2-1.9.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[18:47:39] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[18:47:39] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability_mc1.12_1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[18:47:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedrocketrycore, ClientFixer, adhooks, advancedrocketry, appliedenergistics2, bibliocraft, bookshelf, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, chesttransporter, divinerpg, eplus, energyconverters, extrautils2, bigreactors, fluxnetworks, forgeendertech, waila, ironchest, jei, journeymap, libvulpes, mutantbeasts, pneumaticcraft, additionalstructures, zerocore] at CLIENT
-[18:47:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedrocketrycore, ClientFixer, adhooks, advancedrocketry, appliedenergistics2, bibliocraft, bookshelf, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, chesttransporter, divinerpg, eplus, energyconverters, extrautils2, bigreactors, fluxnetworks, forgeendertech, waila, ironchest, jei, journeymap, libvulpes, mutantbeasts, pneumaticcraft, additionalstructures, zerocore] at SERVER
-[18:47:42] [Server thread/INFO] [divinerpg.DivineRPG]: Creating registries
-[18:47:42] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[18:47:42] [Server thread/INFO] [FML]: Found 2664 ObjectHolder annotations
-[18:47:42] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[18:47:42] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[18:47:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:47:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[18:47:42] [Server thread/INFO] [libVulpes]: Tesla integration loaded
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketbuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arwarpcore`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfuelingstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armonitoringstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arspacelaser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arprecisionassembler`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arobservatory`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arcrystallizer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arcuttingmachine`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardatabus`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsatellitehatch`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arguidancecomputerhatch`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsatellitebuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artileentitysatellitecontrolcenter`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arplanetanalyser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arguidancecomputer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arelectricarcfurnace`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artileplanetselector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilematerial`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilelathe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilemetalbender`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationbuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arelectrolyser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `archemicalreactor`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygenvent`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygencharger`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arco2scrubber`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationmonitor`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygendetector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arorientationcontrol`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `argravitycontrol`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arliquidpipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardatapipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arenergypipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardrill`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armicrowavereciever`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsuitworkstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketunloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arbiomescanner`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arattterraformer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arlandingpad`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationdeployablerocketassembler`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidtank`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidunloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsolargenerator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardockingport`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationaltitudecontroller`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrailgun`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arplanetholoselector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arforcefieldprojector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arblockseal`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arspaceelevator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arbeacon`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artransciever`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arblackholegenerator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `argravitymachine`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:42] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
-[18:47:45] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
-[18:47:45] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 3080ms )
-[18:47:46] [Server thread/INFO] [BuildCraft]: 
-[18:47:46] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.6
-[18:47:46] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[18:47:46] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[18:47:46] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[18:47:46] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[18:47:46] [Server thread/INFO] [BuildCraft]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
-[18:47:46] [Server thread/INFO] [BuildCraft]:     Update Localisation, changelog and version for 7.99.24.6
-[18:47:46] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[18:47:46] [Server thread/INFO] [BuildCraft]: 
-[18:47:46] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - lib
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - core
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - builders
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - energy
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - factory
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - robotics
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - silicon
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - transport
-[18:47:46] [Server thread/INFO] [BuildCraft]:   - compat
-[18:47:46] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[18:47:46] [Server thread/INFO] [BuildCraft]: 
-[18:47:46] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[18:47:46] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
-[18:47:46] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[18:47:46] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:47:47] [AE2 VersionChecker/INFO] [AE2:S]: No newer version is available: missing(found) < rv6-stable-7 (current)
-[18:47:47] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
-[18:47:47] [Server thread/INFO] [BuildCraft]: 
-[18:47:47] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.6
-[18:47:47] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
-[18:47:47] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[18:47:47] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[18:47:47] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
-[18:47:47] [Server thread/INFO] [BuildCraft]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
-[18:47:47] [Server thread/INFO] [BuildCraft]:     Update BC for 7.99.24.6
-[18:47:47] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[18:47:47] [Server thread/INFO] [BuildCraft]: 
-[18:47:47] [Server thread/INFO] [BuildCraft]: [compat] Module list:
-[18:47:47] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
-[18:47:47] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
-[18:47:47] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
-[18:47:47] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: OUTDATED Target: 7.99.24.8
-[18:47:47] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
-[18:47:47] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: OUTDATED Target: 7.99.24.8
-[18:47:47] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
-[18:47:48] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
-[18:47:48] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG/1.12.2/divinerpg_update.json
-[18:47:48] [Server thread/INFO] [divinerpg]: Maximum mob health increased to Double.MAX_VALUE (1.7976931348623157e+308)
-[18:47:49] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Found status: UP_TO_DATE Target: null
-[18:47:49] [Forge Version Check/INFO] [forge.VersionCheck]: [pneumaticcraft] Starting version check at https://raw.github.com/TeamPneumatic/pnc-repressurized/master/release_info.json
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:50] [Server thread/WARN] [pneumaticcraft]: Fluid 'oil' already registered by another mod: [buildcraftenergy:oil] - we'll use it, but it might not be available in block form!
-[18:47:50] [Server thread/INFO] [pneumaticcraft]: Thirdparty integration activated for [toughasnails, theoneprobe, immersiveengineering, baubles, computercraft, waila, botania, crafttweaker, cofhcore, thaumcraft, enderio, immersivepetroleum, mekanism, igwmod, opencomputers, ic2, patchouli, buildcraftcore, forestry, appliedenergistics2]
-[18:47:51] [Forge Version Check/INFO] [forge.VersionCheck]: [pneumaticcraft] Found status: AHEAD Target: null
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesoutputhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesinputhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesplaceholder`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesfluidhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestileschematic`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpescreativebattery`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesforgepowerinput`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesforgepoweroutput`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpescoalgenerator`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestilepointer`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestileinvpointer`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/INFO] [divinerpg]: Registering DivineRPG blocks
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxcontroller`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxpoint`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxplug`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `herculeanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gargantuanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: diesel
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: kerosene
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: etchacid
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: fuel
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: lpg
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: lubricant
-[18:47:52] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: plastic
-[18:47:52] [Server thread/INFO] [FML]: Applying holder lookups
-[18:47:52] [Server thread/INFO] [FML]: Holder lookups applied
-[18:47:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG items
-[18:47:53] [Server thread/INFO] [divinerpg]: Registering DivineRPG block items
-[18:47:53] [Server thread/INFO] [divinerpg]: Registering DivineRPG weapons
-[18:47:53] [Server thread/INFO] [divinerpg]: Registering DivineRPG tools
-[18:47:53] [Server thread/INFO] [divinerpg]: Registering DivineRPG armor
-[18:47:53] [Server thread/INFO] [FML]: Applying holder lookups
-[18:47:53] [Server thread/INFO] [FML]: Holder lookups applied
-[18:47:53] [Server thread/INFO] [divinerpg]: Registering armor descriptions
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: java.io.FileNotFoundException: https://www.dropbox.com/s/dl/r2qo3tmaw721m79/Additional%20Structures%201.12.2.txt
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(Native Method)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.net.URL.openStream(Unknown Source)
-[18:47:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at xxrexraptorxx.additionalstructures.util.UpdateChecker$1.run(UpdateChecker.java:24)
-[18:47:53] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.AdvancedRocketry:register:221]: REGISTERING BIOMES
-[18:47:54] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
-[18:47:54] [Server thread/WARN] [FML]: No types have been added to Biome buildcraftenergy:oil_ocean, types have been assigned on a best-effort guess: [WATER, OCEAN, PLAINS]
-[18:47:54] [Server thread/WARN] [FML]: No types have been added to Biome buildcraftenergy:oil_desert, types have been assigned on a best-effort guess: [HOT, SANDY, PLAINS, DRY]
-[18:47:54] [Server thread/WARN] [FML]: No types have been added to Biome advancedrocketry:crystalchasms, types have been assigned on a best-effort guess: [COLD, PLAINS]
-[18:47:54] [Server thread/INFO] [FML]: Applying holder lookups
-[18:47:54] [Server thread/INFO] [FML]: Holder lookups applied
-[18:47:54] [Server thread/INFO] [FML]: Applying holder lookups
-[18:47:54] [Server thread/INFO] [FML]: Holder lookups applied
-[18:47:54] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:47:54] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[18:47:54] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
-[18:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
-[18:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[18:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[18:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[18:47:54] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[18:47:56] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
+[13:20:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:20:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:20:31] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:20:31] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
+[13:20:31] [Server thread/INFO] [FML]: Searching C:\Users\Smokelight\Documents\GitHub\don-t-touch-me-there\.\mods for mods
+[13:20:32] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[13:20:33] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[13:20:33] [Server thread/INFO] [FML]: Disabling mod wailaharvestability it is client side only.
+[13:20:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 41 mods to load
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[13:20:34] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:registerBus:42]: ********* registerBus. OK
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[13:20:34] [Server thread/WARN] [FML]: Missing English translation for additionalstructures: assets/additionalstructures/lang/en_us.lang
+[13:20:34] [Server thread/INFO] [FML]: FML has found a non-mod file clientfixer-1.12.2-1.9.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:20:34] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:20:34] [Server thread/INFO] [FML]: FML has found a non-mod file WailaHarvestability_mc1.12_1.1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:20:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedrocketrycore, ClientFixer, opencomputers|core, actuallyadditions, adhooks, advancedrocketry, appliedenergistics2, bibliocraft, bookshelf, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, chesttransporter, divinerpg, eplus, energyconverters, extrautils2, bigreactors, fluxnetworks, forgeendertech, waila, ic2, ironchest, jei, journeymap, libvulpes, opencomputers, pneumaticcraft, railcraft, additionalstructures, zerocore] at CLIENT
+[13:20:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedrocketrycore, ClientFixer, opencomputers|core, actuallyadditions, adhooks, advancedrocketry, appliedenergistics2, bibliocraft, bookshelf, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, chesttransporter, divinerpg, eplus, energyconverters, extrautils2, bigreactors, fluxnetworks, forgeendertech, waila, ic2, ironchest, jei, journeymap, libvulpes, opencomputers, pneumaticcraft, railcraft, additionalstructures, zerocore] at SERVER
+[13:20:36] [Server thread/INFO] [divinerpg.DivineRPG]: Creating registries
+[13:20:36] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:20:37] [Server thread/INFO] [FML]: Found 2617 ObjectHolder annotations
+[13:20:37] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:20:37] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[13:20:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:20:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:20:37] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[13:20:37] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[13:20:37] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[13:20:37] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[13:20:37] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[13:20:37] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[13:20:37] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[13:20:37] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[13:20:37] [Actually Additions Update Checker/INFO] [Actually Additions]: Update Check done!
+[13:20:37] [Actually Additions Update Checker/INFO] [Actually Additions]: Actually Additions is up to date!
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG/1.12.2/divinerpg_update.json
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [divinerpg] Found status: UP_TO_DATE Target: null
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: OUTDATED Target: 7.99.24.8
+[13:20:39] [Forge Version Check/INFO] [forge.VersionCheck]: [pneumaticcraft] Starting version check at https://raw.github.com/TeamPneumatic/pnc-repressurized/master/release_info.json
+[13:20:41] [Forge Version Check/INFO] [forge.VersionCheck]: [pneumaticcraft] Found status: AHEAD Target: null
+[13:20:41] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[13:20:41] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: OUTDATED Target: 7.99.24.8
+[13:20:41] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Starting version check at http://www.railcraft.info/railcraft_versions
+[13:20:42] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Found status: BETA Target: null
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[13:20:43] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[13:20:43] [Server thread/INFO] [libVulpes]: Tesla integration loaded
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketbuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arwarpcore`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfuelingstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armonitoringstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arspacelaser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arprecisionassembler`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arobservatory`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arcrystallizer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arcuttingmachine`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardatabus`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsatellitehatch`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arguidancecomputerhatch`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsatellitebuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artileentitysatellitecontrolcenter`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arplanetanalyser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arguidancecomputer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arelectricarcfurnace`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artileplanetselector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilematerial`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilelathe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artilemetalbender`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationbuilder`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arelectrolyser`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `archemicalreactor`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygenvent`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygencharger`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arco2scrubber`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationmonitor`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aroxygendetector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arorientationcontrol`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `argravitycontrol`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arliquidpipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardatapipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arenergypipe`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardrill`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armicrowavereciever`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsuitworkstation`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrocketunloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arbiomescanner`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arattterraformer`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arlandingpad`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationdeployablerocketassembler`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidtank`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidunloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arfluidloader`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arsolargenerator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ardockingport`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arstationaltitudecontroller`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrailgun`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arplanetholoselector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arforcefieldprojector`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arblockseal`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arspaceelevator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arbeacon`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `artransciever`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arblackholegenerator`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `argravitymachine`, expected `advancedrocketry`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:43] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[13:20:44] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[13:20:44] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 1290ms )
+[13:20:44] [Server thread/INFO] [BuildCraft]: 
+[13:20:44] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.6
+[13:20:44] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[13:20:44] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[13:20:44] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[13:20:44] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[13:20:44] [Server thread/INFO] [BuildCraft]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
+[13:20:44] [Server thread/INFO] [BuildCraft]:     Update Localisation, changelog and version for 7.99.24.6
+[13:20:44] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[13:20:44] [Server thread/INFO] [BuildCraft]: 
+[13:20:44] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - lib
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - core
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - builders
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - energy
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - factory
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - robotics
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - silicon
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - transport
+[13:20:44] [Server thread/INFO] [BuildCraft]:   - compat
+[13:20:44] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[13:20:44] [Server thread/INFO] [BuildCraft]: 
+[13:20:45] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[13:20:45] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:20:45] [Server thread/INFO] [BuildCraft]: 
+[13:20:45] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.6
+[13:20:45] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[13:20:45] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[13:20:45] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[13:20:45] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[13:20:45] [Server thread/INFO] [BuildCraft]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
+[13:20:45] [Server thread/INFO] [BuildCraft]:     Update BC for 7.99.24.6
+[13:20:45] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[13:20:45] [Server thread/INFO] [BuildCraft]: 
+[13:20:45] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[13:20:45] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
+[13:20:45] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[13:20:45] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[13:20:45] [AE2 VersionChecker/INFO] [AE2:S]: No newer version is available: missing(found) < rv6-stable-7 (current)
+[13:20:45] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[13:20:45] [Server thread/INFO] [divinerpg]: Maximum mob health increased to Double.MAX_VALUE (1.7976931348623157e+308)
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `adapter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.energy.tile.IEnergySink into li.cil.oc.common.tileentity.traits.power.IndustrialCraft2Experimental.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `assembler`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `cable`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `capacitor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `carpetedcapacitor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `case`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `charger`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `diskdrive`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `disassembler`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `keyboard`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `hologram`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `geolyzer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `microcontroller`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `motionsensor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `netsplitter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `powerconverter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `powerdistributor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `print`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `printer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `raid`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `redstone`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `relay`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `robot`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `screen`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `rack`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `transposer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `waypoint`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:47] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.item.IBoxable into li.cil.oc.common.item.Wrench.
+[13:20:47] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.item.ISpecialElectricItem into li.cil.oc.common.item.traits.Chargeable.
+[13:20:47] [Server thread/INFO] [opencomputers]: Initializing OpenComputers API.
+[13:20:47] [Server thread/INFO] [opencomputers]: Found a compatible native library: 'OpenComputersMod-1.7.5.192-lua52-native.64.dll'.
+[13:20:47] [Server thread/INFO] [opencomputers]: Found a compatible native library: 'OpenComputersMod-1.7.5.192-lua53-native.64.dll'.
+[13:20:47] [Server thread/INFO] [opencomputers]: Done with pre init phase.
+[13:20:48] [Server thread/WARN] [pneumaticcraft]: Fluid 'oil' already registered by another mod: [buildcraftenergy:oil] - we'll use it, but it might not be available in block form!
+[13:20:48] [Server thread/INFO] [pneumaticcraft]: Thirdparty integration activated for [toughasnails, theoneprobe, immersiveengineering, baubles, computercraft, waila, botania, crafttweaker, cofhcore, thaumcraft, enderio, immersivepetroleum, mekanism, igwmod, opencomputers, ic2, patchouli, buildcraftcore, forestry, appliedenergistics2]
+[13:20:48] [Server thread/INFO] [OpenComputers]: Successfully injected component logic into class me.desht.pneumaticcraft.common.thirdparty.computercraft.TileEntityDroneInterface.
+[13:20:50] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:forestry
+[13:20:50] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Forestry not detected
+[13:20:50] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:thaumcraft
+[13:20:50] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Thaumcraft not detected
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `commandblock_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:commandblock_minecart with railcraft:cart_command_block.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:minecart with railcraft:cart_basic.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chest_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:chest_minecart with railcraft:cart_chest.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:furnace_minecart with railcraft:cart_furnace.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tnt_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:tnt_minecart with railcraft:cart_tnt.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hopper_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:hopper_minecart with railcraft:cart_hopper.
+[13:20:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `spawner_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:50] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:spawner_minecart with railcraft:cart_spawner.
+[13:20:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:20:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:20:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:20:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 60 called mine_copper
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 15 called mine_gold
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_iron
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_nickel
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_lead
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_zinc
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 20 called mine_silver
+[13:20:51] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 50 called mine_tin
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesoutputhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesinputhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesplaceholder`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesfluidhatch`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestileschematic`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpescreativebattery`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesforgepowerinput`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpesforgepoweroutput`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpescoalgenerator`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestilepointer`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `vulpestileinvpointer`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `aric2plug`, expected `libvulpes`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bookcase`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `shelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `markerpole`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clipboard`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bibliolight`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furniturepaneler`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `potionshelf`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `toolrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `label`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `desk`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `table`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `seat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancysign`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fancyworkbench`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `framedchest`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mapframe`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `case`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `clock`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeborderless`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframefancy`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframeflat`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframemiddle`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingframesimple`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paintingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `armorstand`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typesettingtable`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `printingpress`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookiejar`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dinnerplate`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `discrack`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `swordpedestal`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bell`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `typewriter`, expected `bibliocraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/INFO] [divinerpg]: Registering DivineRPG blocks
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxcontroller`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxpoint`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxplug`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `herculeanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gargantuanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: lpg
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: diesel
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: plastic
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: lubricant
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: fuel
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: etchacid
+[13:20:51] [Server thread/INFO] [pneumaticcraft]: registered block for fluid: kerosene
+[13:20:51] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[13:20:52] [Server thread/INFO] [FML]: Applying holder lookups
+[13:20:52] [Server thread/INFO] [FML]: Holder lookups applied
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG block items
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG items
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG tools
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG weapons
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering DivineRPG armor
+[13:20:52] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[13:20:52] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[13:20:52] [Server thread/INFO] [FML]: Applying holder lookups
+[13:20:52] [Server thread/INFO] [FML]: Holder lookups applied
+[13:20:52] [Server thread/INFO] [divinerpg]: Registering armor descriptions
+[13:20:52] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.AdvancedRocketry:register:221]: REGISTERING BIOMES
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: java.io.FileNotFoundException: https://www.dropbox.com/s/dl/r2qo3tmaw721m79/Additional%20Structures%201.12.2.txt
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivileged(Native Method)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at java.net.URL.openStream(Unknown Source)
+[13:20:53] [Update-Checker/INFO] [STDERR]: [xxrexraptorxx.additionalstructures.util.UpdateChecker$1:run:34]: 	at xxrexraptorxx.additionalstructures.util.UpdateChecker$1.run(UpdateChecker.java:24)
+[13:20:53] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[13:20:53] [Server thread/INFO] [FML]: Applying holder lookups
+[13:20:53] [Server thread/INFO] [FML]: Holder lookups applied
+[13:20:53] [Server thread/INFO] [FML]: Applying holder lookups
+[13:20:53] [Server thread/INFO] [FML]: Holder lookups applied
+[13:20:53] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:20:53] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[13:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[13:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[13:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[13:20:53] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[13:20:53] [Server thread/INFO] [railcraft]: Fluid ingredient factory loaded
+[13:20:53] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
+[13:20:53] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
+[13:20:53] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
 com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -361,7 +460,7 @@ com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_311]
-[18:47:56] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
+[13:20:53] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
 com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -376,31 +475,44 @@ com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_311]
-[18:47:57] [Server thread/INFO] [FML]: Applying holder lookups
-[18:47:57] [Server thread/INFO] [FML]: Holder lookups applied
-[18:47:57] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.dust@1 = 1xitem.ingotIron@0
-[18:47:57] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.dust@2 = 1xitem.ingotGold@0
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [libVulpes]: Overwriting recipe true
-[18:47:57] [Server thread/INFO] [AE2:S]: Initialization ( started )
-[18:47:57] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
-[18:47:57] [Server thread/INFO] [AE2:S]: Initialization ( ended after 482ms )
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:53] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
+[13:20:53] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
+[13:20:54] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[13:20:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.actuallyadditions.item_dust@0 = 1xitem.ingotIron@0
+[13:20:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.actuallyadditions.item_dust@1 = 1xitem.ingotGold@0
+[13:20:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.actuallyadditions.item_dust@5 = 1xitem.netherquartz@0
+[13:20:54] [Server thread/INFO] [FML]: Applying holder lookups
+[13:20:54] [Server thread/INFO] [FML]: Holder lookups applied
+[13:20:54] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[13:20:54] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[13:20:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.dust@1 = 1xitem.ingotIron@0
+[13:20:54] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.dust@2 = 1xitem.ingotGold@0
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:54] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[13:20:54] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[13:20:54] [Server thread/INFO] [AE2:S]: Initialization ( ended after 81ms )
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.blocks.BlockEnderLilly$1
   Method not overriden: IProperty.parseValue(String)
@@ -447,7 +559,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/blocks/B
 	at com.rwtema.extrautils2.blocks.BlockEnderLilly$1.func_185929_b(BlockEnderLilly.java) ~[BlockEnderLilly$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -494,7 +606,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -541,7 +653,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -588,7 +700,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -635,7 +747,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -682,7 +794,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.blocks.BlockPlayerChest$1
   Method not overriden: IProperty.parseValue(String)
@@ -729,7 +841,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/blocks/B
 	at com.rwtema.extrautils2.blocks.BlockPlayerChest$1.func_185929_b(BlockPlayerChest.java) ~[BlockPlayerChest$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -776,7 +888,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -823,7 +935,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -870,7 +982,7 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
+[13:20:54] [Server thread/ERROR] [BuildCraft]: [silicon.facade] Invalid property!
 java.lang.RuntimeException: Invalid IProperty object detected!
   Class = class com.rwtema.extrautils2.tile.TilePower$1
   Method not overriden: IProperty.parseValue(String)
@@ -917,170 +1029,275 @@ Caused by: java.lang.AbstractMethodError: Method com/rwtema/extrautils2/tile/Til
 	at com.rwtema.extrautils2.tile.TilePower$1.func_185929_b(TilePower.java) ~[TilePower$1.class:?]
 	at buildcraft.silicon.plug.FacadeStateManager.doesPropertyConform(FacadeStateManager.java:368) ~[FacadeStateManager.class:?]
 	... 38 more
-[18:47:58] [Server thread/INFO] [divinerpg]: Registering custom triggers
-[18:47:58] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:47:58] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:47:59] [Server thread/INFO] [advancedrocketry]: GC IGalacticraftWorldProvider not found
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering liquid rocket fuels
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Registering fluid rocketfuel as rocket fuel
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Finished registering liquid rocket fuels
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering sealable blocks (sealableBlockWhiteList)
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering sealable blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering unsealable blocks (sealableBlockBlackList)
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering unsealable blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering torch blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering torch blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering blackhole generator blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering blackhole generator blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering rocket blacklist blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering rocket blacklist blocks
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering Harvestable Gasses
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering Harvestable Gasses
-[18:47:59] [Server thread/INFO] [advancedrocketry]: Start registering entity atmosphere bypass
-[18:47:59] [Server thread/INFO] [advancedrocketry]: End registering entity atmosphere bypass
-[18:47:59] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
-[18:47:59] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: Waila - Integration Enable
-[18:47:59] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
-[18:47:59] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 128ms )
-[18:47:59] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'ic2:resource[type=uranium_block]': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'immersiveengineering:storage[type=uranium]': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'natura:nether_heat_sand': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [ic2hot_coolant]
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'ic2hot_coolant': unknown fluid (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [ic2coolant]
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'ic2coolant': unknown fluid (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [ic2steam]
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'ic2steam': unknown fluid (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [ic2superheated_steam]
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'ic2superheated_steam': unknown fluid (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'thermalfoundation:storage_alloy[type=enderium]': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [cryotheum]
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'cryotheum': unknown fluid (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:blaze_lantern': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=fire_stone]': unknown block (mod not loaded?)
-[18:47:59] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=icy_stone]': unknown block (mod not loaded?)
-[18:47:59] [Server thread/INFO] [Waila]: Starting Waila...
-[18:47:59] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[18:47:59] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[18:47:59] [Server thread/INFO] [Waila]: Registering plugins...
-[18:47:59] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[18:47:59] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[18:48:00] [Server thread/INFO] [Waila]: Registering plugin at appeng.integration.modules.waila.WailaModule
-[18:48:00] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from appliedenergistics2 at appeng.integration.modules.waila.WailaModule.register
-[18:48:00] [Server thread/INFO] [Waila]: Registering plugin at buildcraft.compat.module.waila.HWYLAPlugin
-[18:48:00] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[18:48:00] [Server thread/INFO] [Waila]: Registering plugin at me.desht.pneumaticcraft.common.thirdparty.waila.WailaCallback
-[18:48:00] [Server thread/INFO] [Waila]: Starting Waila took 861.8 ms
-[18:48:00] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
-[18:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[18:48:01] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:01] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 690 advancements
-[18:48:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:02] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:02] [Server thread/INFO] [FML]: Loading dimension 420 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:02] [Server thread/INFO] [FML]: Loading dimension 421 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:02] [Server thread/INFO] [FML]: Loading dimension 422 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 423 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 424 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 425 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 426 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 427 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension -2 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@224ad9c8)
-[18:48:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[18:48:04] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [1, 6] in dimension 0 (overworld) while populating chunk [2, 7], causing cascading worldgen lag.
-[18:48:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:48:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
-[18:48:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
-[18:48:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
-[18:48:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
-[18:48:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 23%
-[18:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
-[18:48:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
-[18:48:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
-[18:48:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
-[18:48:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
-[18:48:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
-[18:48:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[18:48:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
-[18:48:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
-[18:48:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
-[18:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (17,651s)! For help, type "help" or "?"
-[18:48:18] [Server thread/INFO] [advancedrocketry]: Checking for asteroid config at C:\server1488\.\config\advRocketry\asteroidConfig.xml
-[18:48:18] [Server thread/INFO] [advancedrocketry]: C:\server1488\.\config\advRocketry\asteroidConfig.xml not found, generating
-[18:48:18] [Server thread/INFO] [advancedrocketry]: Checking for ore config at C:\server1488\.\config\advRocketry\oreConfig.xml
-[18:48:18] [Server thread/INFO] [advancedrocketry]: C:\server1488\.\config\advRocketry\oreConfig.xml not found, generating
-[18:48:18] [Server thread/INFO] [advancedrocketry]: Checking for config at C:\server1488\.\world\advRocketry\planetDefs.xml
-[18:48:18] [Server thread/INFO] [advancedrocketry]: File not found.  Now checking for config at ./config/advRocketry/planetDefs.xml
-[18:48:18] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.global.config
-[18:48:18] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.global.config
-[18:48:18] [Server thread/INFO] [journeymap]: default (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.default.config
-[18:48:18] [Server thread/INFO] [journeymap]: default (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.default.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim0.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim0.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-1.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim-1.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim1.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim1.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim420 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim420.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim420 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim420.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim421 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim421.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim421 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim421.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim422 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim422.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim422 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim422.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim423 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim423.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim423 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim423.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim424 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim424.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim424 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim424.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim425 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim425.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim425 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim425.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim426 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim426.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim426 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim426.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim427 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim427.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim427 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim427.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-11325 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-11325.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-11325 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim-11325.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-9999 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-9999.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-9999 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim-9999.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-2 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-2.config
-[18:48:18] [Server thread/INFO] [journeymap]: dim-2 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim-2.config
-[18:48:19] [Server thread/INFO] [journeymap]: dim2 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim2.config
-[18:48:19] [Server thread/INFO] [journeymap]: dim2 (Valid) Creating config file: .\journeymap\server\5.7\journeymap.server.dim2.config
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 1
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 420
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 421
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 422
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 423
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 424
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 425
-[18:48:19] [Server thread/INFO] [FML]: Unloading dimension 426
-[18:48:20] [Server thread/INFO] [FML]: Unloading dimension 427
-[18:48:20] [Server thread/INFO] [FML]: Unloading dimension -11325
-[18:48:20] [Server thread/INFO] [FML]: Unloading dimension -2
-[18:48:20] [Server thread/INFO] [FluxNetworks]: No FluxNetworkData found
-[18:48:20] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been successfully loaded
-[18:48:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4728ms behind, skipping 94 tick(s)
-[18:48:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[18:48:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[18:48:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[18:48:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[18:48:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[18:48:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
-[18:48:32] [Server thread/INFO] [FML]: Unloading dimension 0
-[18:48:32] [Server thread/INFO] [FML]: Unloading dimension -9999
-[18:48:32] [Server thread/INFO] [FML]: Unloading dimension 2
-[18:48:32] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
-[18:48:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[18:48:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[18:48:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:20:54] [Server thread/INFO] [divinerpg]: Registering custom triggers
+[13:20:55] [Server thread/INFO] [opencomputers]: Found extended redstone mods, enabling tier two redstone card.
+[13:20:55] [Server thread/INFO] [opencomputers]: Initializing capabilities.
+[13:20:55] [Server thread/INFO] [opencomputers]: Done with init phase.
+[13:20:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `golden_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `detector_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `activator_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:20:55] [Server thread/WARN] [railcraft]: Tried, but failed to register thaumcraft:alumentum as a Blast Furnace Fuel recipe. Reason: Input was null or empty.
+[13:20:55] [Server thread/INFO] [railcraft]: Activating Christmas Seasonal Pack
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 60 called mine_copper
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 15 called mine_gold
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_iron
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_lead
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_nickel
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 20 called mine_silver
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 50 called mine_tin
+[13:20:55] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_zinc
+[13:20:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:20:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:20:56] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
+[13:20:56] [Server thread/WARN] [FML]: No types have been added to Biome advancedrocketry:crystalchasms, types have been assigned on a best-effort guess: [COLD, PLAINS]
+[13:20:56] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[13:20:56] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[13:20:56] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
+[13:20:56] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[13:20:56] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[13:20:56] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[13:20:56] [Server thread/INFO] [ic2.General]: ic2 version 2.8.221-ex112 loaded.
+[13:20:56] [Server thread/INFO] [advancedrocketry]: GC IGalacticraftWorldProvider not found
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering liquid rocket fuels
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Registering fluid rocketfuel as rocket fuel
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Finished registering liquid rocket fuels
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering sealable blocks (sealableBlockWhiteList)
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering sealable blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering unsealable blocks (sealableBlockBlackList)
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering unsealable blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering torch blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering torch blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering blackhole generator blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering blackhole generator blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering rocket blacklist blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering rocket blacklist blocks
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering Harvestable Gasses
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering Harvestable Gasses
+[13:20:56] [Server thread/INFO] [advancedrocketry]: Start registering entity atmosphere bypass
+[13:20:56] [Server thread/INFO] [advancedrocketry]: End registering entity atmosphere bypass
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@0] -> [6xtile.planks@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xcircuitplate@1] -> [4xcircuitIC@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xcircuitplate@0] -> [4xcircuitIC@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xitem.boule@3] -> [4xwafer@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@0] -> [6xtile.wood@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@1] -> [6xtile.wood@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@2] -> [6xtile.wood@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@3] -> [6xtile.wood@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@0] -> [6xtile.wood@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCuttingMachine for [1xtile.log@1] -> [6xtile.wood@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xbattery@0, 1xcircuitIC@2, 1xmiscpart@0, 1xlens@0, 1xitem.plate@5] -> [1xitem.atmAnalyser@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xbattery@0, 1xcircuitIC@2, 1xcircuitIC@3, 1xlens@0] -> [1xitemUpgrade@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xtile.motor@0, 1xcircuitIC@2, 1xcircuitIC@3] -> [1xitemUpgrade@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [3xlens@0, 3xtile.glass@0] -> [1xtile.lens@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xitem.plate@4, 1xitem.plate@6] -> [1xcircuitIC@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xitem.emerald@0, 1xcircuitIC@0] -> [1xdataUnit@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xitem.plate@2, 1xitem.plate@6] -> [1xcircuitIC@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.ingotGold@0, 1xtile.blockRedstone@0, 1xwafer@0] -> [1xcircuitplate@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.ingotGold@0, 1xitem.redstone@0, 1xwafer@0] -> [1xcircuitplate@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.feather@0, 1xcircuitIC@2, 1xcircuitIC@3, 1xitem.bootsCloth@0] -> [1xitemUpgrade@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.diamond@0, 1xcircuitIC@2, 1xcircuitIC@3, 1xitem.fireball@0] -> [1xitemUpgrade@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xcircuitIC@0, 1xcircuitIC@3, 1xtile.notGate@0] -> [1xitemUpgrade@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xbattery@0, 1xcircuitIC@2, 1xmiscpart@0, 1xcircuitIC@1, 1xitem.plate@5] -> [1xitem.biomeChanger@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xcircuitIC@1, 1xitemUpgrade@4] -> [1xitem.beaconFinder@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.stationChip@0, 1xcircuitIC@1] -> [1xitem.elevatorChip@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xitem.eyeOfEnder@0, 1xcircuitplate@0] -> [1xcircuitIC@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [2xitem.stick@4, 1xitem.stick@7, 1xcircuitIC@2, 2xwafer@0] -> [1xsatellitePrimaryFunction@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.redstone@0, 1xitem.dyePowder@4, 1xitem.plate@6] -> [1xcircuitIC@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xcircuitIC@2, 2xwafer@0] -> [1xsatellitePrimaryFunction@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TilePrecisionAssembler for [1xitem.stick@1, 3xlens@0, 3xtile.glass@0] -> [1xtile.lens@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileChemicalReactor for [1xitem.carbonScrubberCartridge@32766] -> [1xitem.carbonScrubberCartridge@0, 1xitem.coal@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileChemicalReactor for [net.minecraftforge.fluids.FluidStack@198189f6, net.minecraftforge.fluids.FluidStack@3351e29c] -> [net.minecraftforge.fluids.FluidStack@4b1cbe4e]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileChemicalReactor for [1xitem.bone@0, net.minecraftforge.fluids.FluidStack@899061b] -> [8xitem.dyePowder@15]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCrystallizer for [dustDilithiumx1] -> [1xitem.gem@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileCrystallizer for [ingotSiliconx1, nuggetSiliconx1] -> [1xitem.boule@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectrolyser for [net.minecraftforge.fluids.FluidStack@3e706ab7] -> [net.minecraftforge.fluids.FluidStack@3351e29c, net.minecraftforge.fluids.FluidStack@198189f6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectricArcFurnace for [7xitem.ingot@9, 3xitem.ingot@7] -> [3xitem.ingot@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectricArcFurnace for [1xitem.coal@1, 1xitem.ingotIron@0] -> [1xitem.ingot@6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectricArcFurnace for [1xtile.sand@0] -> [1xitem.ingot@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectricArcFurnace for [1xitem.ingot@10, 1xitem.ingot@7] -> [2xitem.ingot@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileElectricArcFurnace for [oreRutilex1] -> [1xitem.ingot@7]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotTitaniumAluminidex1] -> [2xitem.stick@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotTitaniumx1] -> [2xitem.stick@7]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotIronx1] -> [2xitem.stick@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotIridiumx1] -> [2xitem.stick@10]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotCopperx1] -> [2xitem.stick@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotSteelx1] -> [2xitem.stick@6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileLathe for [ingotTitaniumIridiumx1] -> [2xitem.stick@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [2xitem.sheet@6, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xpressureTank@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [2xitem.sheet@9, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xpressureTank@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [2xitem.sheet@7, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xpressureTank@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [2xitem.sheet@1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xpressureTank@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateIronx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateCopperx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateSteelx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateTitaniumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@7]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateAluminumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@9]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateTitaniumAluminidex1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [plateTitaniumIridiumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.sheet@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotGoldx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotTitaniumAluminidex1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotAluminumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@9]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotTinx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotTitaniumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@7]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotIronx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotSiliconx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@3]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotIridiumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@10]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotCopperx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotSteelx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.tile.multiblock.machine.TileRollingMachine for [ingotTitaniumIridiumx1, net.minecraftforge.fluids.FluidStack@3e706ab7] -> [1xitem.plate@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreDilithiumx1] -> [2xitem.dust@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockIronx1] -> [4xitem.plate@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreIronx1] -> [2xitem.dust@1]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockGoldx1] -> [4xitem.plate@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreGoldx1] -> [2xitem.dust@2]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockCopperx1] -> [4xitem.plate@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreCopperx1] -> [2xitem.dust@4]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockTinx1] -> [4xitem.plate@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreTinx1] -> [2xitem.dust@5]
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockSteelx1] -> [4xitem.plate@6]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockTitaniumx1] -> [4xitem.plate@7]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockAluminumx1] -> [4xitem.plate@9]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreAluminumx1] -> [2xitem.dust@9]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockIridiumx1] -> [4xitem.plate@10]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [oreIridiumx1] -> [2xitem.dust@10]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockTitaniumAluminidex1] -> [4xitem.plate@0]
+[13:20:56] [Server thread/INFO] [libVulpes]: Overwriting recipe true
+[13:20:56] [Server thread/INFO] [libVulpes]: Sucessfully added recipe to zmaster587.advancedRocketry.block.BlockPress for [blockTitaniumIridiumx1] -> [4xitem.plate@1]
+[13:20:56] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[13:20:56] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
+[13:20:56] [Server thread/INFO] [AE2:S]: Railcraft - Integration Enable
+[13:20:56] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[13:20:56] [Server thread/INFO] [AE2:S]: Waila - Integration Enable
+[13:20:56] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
+[13:20:56] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Enable
+[13:20:56] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
+[13:20:56] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[13:20:56] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[13:20:56] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 203ms )
+[13:20:56] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[13:20:56] [Server thread/INFO] [opencomputers]: Done with post init phase.
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'immersiveengineering:storage[type=uranium]': unknown block (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'natura:nether_heat_sand': unknown block (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'thermalfoundation:storage_alloy[type=enderium]': unknown block (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: BlockHeatProperties.cfg: unknown fluid definition [cryotheum]
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'cryotheum': unknown fluid (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:blaze_lantern': unknown block (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=fire_stone]': unknown block (mod not loaded?)
+[13:20:56] [Server thread/WARN] [pneumaticcraft]: skipping BlockHeatProperties.cfg entry 'quark:biome_cobblestone[variant=icy_stone]': unknown block (mod not loaded?)
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:20:56] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:red_shulker_box, minecraft:magenta_shulker_box, minecraft:light_blue_shulker_box, minecraft:lime_shulker_box, minecraft:gray_shulker_box, minecraft:black_shulker_box, minecraft:yellow_shulker_box, minecraft:orange_shulker_box, minecraft:blue_shulker_box, minecraft:pink_shulker_box, minecraft:white_shulker_box, minecraft:brown_shulker_box, minecraft:silver_shulker_box, minecraft:purple_shulker_box, minecraft:cyan_shulker_box, minecraft:green_shulker_box]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:milk_bucket, minecraft:water_bucket, minecraft:lava_bucket]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:batpack, ic2:batpack, ic2:advanced_batpack, ic2:advanced_batpack, ic2:charging_re_battery, ic2:charging_re_battery, ic2:advanced_charging_re_battery, ic2:advanced_charging_re_battery, ic2:re_battery, ic2:re_battery, ic2:advanced_re_battery, ic2:advanced_re_battery, ic2:single_use_battery]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:charging_lapotron_crystal, ic2:charging_lapotron_crystal, ic2:lapotron_crystal, ic2:lapotron_crystal, ic2:energy_crystal, ic2:energy_crystal, ic2:charging_energy_crystal, ic2:charging_energy_crystal]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:jetpack_electric, ic2:jetpack_electric]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:energy_pack, ic2:energy_pack]
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: []
+[13:20:56] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:te#68, ic2:te#69, ic2:te#70, ic2:te#71, ic2:te#72, ic2:te#73, ic2:te#74, ic2:te#75]
+[13:20:56] [Server thread/INFO] [Waila]: Starting Waila...
+[13:20:56] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[13:20:56] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugins...
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at appeng.integration.modules.waila.WailaModule
+[13:20:56] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from appliedenergistics2 at appeng.integration.modules.waila.WailaModule.register
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at buildcraft.compat.module.waila.HWYLAPlugin
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at li.cil.oc.integration.waila.BlockDataProvider
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[13:20:56] [Server thread/INFO] [Waila]: Registering plugin at me.desht.pneumaticcraft.common.thirdparty.waila.WailaCallback
+[13:20:56] [Server thread/INFO] [Waila]: Starting Waila took 73.89 ms
+[13:20:57] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 41 mods
+[13:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[13:20:57] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@44d079ad)
+[13:20:57] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_corridor
+[13:20:57] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/simple_dungeon
+[13:20:57] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/abandoned_mineshaft
+[13:20:57] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_crossing
+[13:20:57] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/village_blacksmith
